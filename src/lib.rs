@@ -1,5 +1,6 @@
 mod add_two_numbers;
 mod collections;
+mod longest_substring_without_repeating_characters;
 mod two_sum;
 
 pub fn add(left: usize, right: usize) -> usize {
